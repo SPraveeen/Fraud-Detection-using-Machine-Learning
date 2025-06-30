@@ -47,6 +47,6 @@ Tools & Libraries:
 Conclusion:
 The project demonstrated the effectiveness of applying machine learning techniques to real-world fraud detection problems. It highlights my ability to work with imbalanced datasets, apply proper evaluation metrics, and use Python's data science ecosystem to build and evaluate models efficiently.
 
-##to run this project
+## to run this project
 **Download this data set <a href="https://www.kaggle.com/datasets/amanalisiddiqui/fraud-detection-dataset">DataSet</a>**
 **use - streamlit run fraud_detection.py**
